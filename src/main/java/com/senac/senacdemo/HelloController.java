@@ -7,7 +7,7 @@ public class HelloController {
     @FXML
     private Label welcomeText;
 
-
+// teste
 
     @FXML
     protected void onHelloButtonClick() {
