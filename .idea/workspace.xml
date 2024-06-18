@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26203c09-9417-4a2c-8556-4c543c063033" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/HelloController.java" afterDir="false" />
-    </list>
+    <list default="true" id="26203c09-9417-4a2c-8556-4c543c063033" name="Changes" comment="teste de commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +65,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718667166586</updated>
-      <workItem from="1718667170983" duration="1207000" />
+      <workItem from="1718667170983" duration="1614000" />
     </task>
+    <task id="LOCAL-00001" summary="teste de commit">
+      <option name="closed" value="true" />
+      <created>1718672117709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718672117709</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="teste de commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste de commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
