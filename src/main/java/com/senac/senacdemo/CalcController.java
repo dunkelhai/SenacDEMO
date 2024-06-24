@@ -3,7 +3,7 @@ package com.senac.senacdemo;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class CalcController {
     @FXML
     private Label welcomeText;
 
