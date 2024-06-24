@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26203c09-9417-4a2c-8556-4c543c063033" name="Changes" comment="teste de commit" />
+    <list default="true" id="26203c09-9417-4a2c-8556-4c543c063033" name="Changes" comment="commit de hoje">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/CalcController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/CalcController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/senac/senacdemo/calc.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/senac/senacdemo/calc.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,34 +67,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/Alysson/GitHub/SenacDEMO/src/main/java/com/senac/senacdemo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalcApplication.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/Alysson/GitHub/SenacDEMO/src/main/java/com/senac/senacdemo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/senac/senacdemo" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.senac.senacdemo.HelloApplication" />
+    <configuration name="CalcApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.senac.senacdemo.CalcApplication" />
       <module name="SenacDEMO" />
       <extension name="coverage">
         <pattern>
@@ -105,7 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.CalcApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +130,7 @@
       <updated>1718667166586</updated>
       <workItem from="1718667170983" duration="1614000" />
       <workItem from="1718839148783" duration="3676000" />
-      <workItem from="1719264326895" duration="147000" />
+      <workItem from="1719264326895" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="teste de commit">
       <option name="closed" value="true" />
@@ -136,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718672117709</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit de hoje">
+      <option name="closed" value="true" />
+      <created>1719269928758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719269928760</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste de commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste de commit" />
+    <MESSAGE value="commit de hoje" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit de hoje" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
