@@ -2,16 +2,20 @@ package com.senac.senacdemo;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
+import javafx.scene.control.TextArea;
 
 public class CalcController {
     @FXML
-    private Label welcomeText;
+    private Label resultado;
+    @FXML
+    private TextArea numero1;
+    @FXML
+    private TextArea numero2;
 
-// teste
-    //teste
+
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+        resultado.setText("Welcome to JavaFX Application!");
     }
 }
