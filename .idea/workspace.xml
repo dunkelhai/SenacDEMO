@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26203c09-9417-4a2c-8556-4c543c063033" name="Changes" comment="commit de hoje">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/CalcController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/CalcController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/senac/senacdemo/calc.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/senac/senacdemo/calc.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/senac/senacdemo/CalcControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -73,6 +73,8 @@
     "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/Alysson/GitHub/SenacDEMO/src/main/java/com/senac/senacdemo",
@@ -91,6 +93,12 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/senac/senacdemo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.senac.senacdemo" />
     </key>
   </component>
   <component name="RunManager">
@@ -130,7 +138,7 @@
       <updated>1718667166586</updated>
       <workItem from="1718667170983" duration="1614000" />
       <workItem from="1718839148783" duration="3676000" />
-      <workItem from="1719264326895" duration="2398000" />
+      <workItem from="1719264326895" duration="5059000" />
     </task>
     <task id="LOCAL-00001" summary="teste de commit">
       <option name="closed" value="true" />
@@ -164,7 +172,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/senac/senacdemo/CalcController.java</url>
-          <line>17</line>
+          <line>16</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
