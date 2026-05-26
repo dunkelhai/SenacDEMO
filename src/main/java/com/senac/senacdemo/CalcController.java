@@ -11,12 +11,13 @@ public class CalcController {
     private TextField numero1;
     @FXML
     private TextField numero2;
+    private String teste;
 
     @FXML
     protected void somar() {
         Double n1 = Double.parseDouble(numero1.getText());
         Double n2 = Double.parseDouble(numero2.getText());
-        Double soma = n1 + n2;
+        Double soma = n1 + n2 +1;
         resultado.setText("Resultado: " + soma);
     }
 }
