@@ -5,24 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26203c09-9417-4a2c-8556-4c543c063033" name="Changes" comment="commit de hoje">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/senac/senacdemo/CalcControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/senacdemo/Teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="9173aad4-8345-41a9-be2f-e2d8b457cc3e" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="9173aad4-8345-41a9-be2f-e2d8b457cc3e" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/alysson_borges/GitHub/SenacDEMO" value="2i1nsk7YVEI5TnGK4GAkoQigDae" />
+    </persistenceIdMap>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dunkelhai"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -33,12 +65,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1718844733" />
+                    <option name="branchName" value="teste_senac" />
+                    <option name="lastUsedInstant" value="1779755375" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="hml" />
-                    <option name="lastUsedInstant" value="1718844247" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1718844733" />
                   </RecentBranch>
                 </list>
               </option>
@@ -49,18 +81,87 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dunkelhai/SenacDEMO.git",
+    "accountId": "aacea438-f019-4e3f-8e65-a628dd05d6e1"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.266092681602972" />
+      <entry key="MS500" value="1.809708203546861" />
+      <entry key="S2" value="2.389550275472252" />
+      <entry key="S5" value="2.7044502377574724" />
+      <entry key="S10" value="2.8815621458335636" />
+      <entry key="S30" value="3.2889559274769047" />
+      <entry key="S60" value="3.5588978175689134" />
+      <entry key="M2" value="3.752038503758561" />
+      <entry key="M5" value="3.893269389114071" />
+      <entry key="M10" value="3.945286409312277" />
+      <entry key="M15" value="3.963217548961361" />
+      <entry key="M30" value="3.9814535966282634" />
+      <entry key="H1" value="3.9906876595801113" />
+      <entry key="H2" value="3.9953340017377714" />
+      <entry key="H4" value="3.9976645384136456" />
+      <entry key="D1" value="3.9996104139317064" />
+      <entry key="W1" value="3.9999443364543095" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="7.321914386749657E-136" />
+      <entry key="MS500" value="9.395608871486873E-28" />
+      <entry key="S2" value="1.7507786112469048E-7" />
+      <entry key="S5" value="0.0019828620136634416" />
+      <entry key="S10" value="0.04452933879661186" />
+      <entry key="S30" value="0.35444491389067867" />
+      <entry key="S60" value="0.595352764242074" />
+      <entry key="M2" value="0.7715910602398617" />
+      <entry key="M5" value="0.9014774652430895" />
+      <entry key="M10" value="0.9494616712869928" />
+      <entry key="M15" value="0.9660174205826282" />
+      <entry key="M30" value="0.9828618522369399" />
+      <entry key="H1" value="0.9913938935846537" />
+      <entry key="H2" value="0.9956876486050502" />
+      <entry key="H4" value="0.9978414947300247" />
+      <entry key="D1" value="0.9996399251424882" />
+      <entry key="W1" value="0.9999485527948773" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.5433860875368959" />
+      <entry key="MS500" value="1.0105772454377127" />
+      <entry key="S2" value="1.8820542921044912" />
+      <entry key="S5" value="2.4388624815820648" />
+      <entry key="S10" value="2.774948351041502" />
+      <entry key="S30" value="3.581418404387815" />
+      <entry key="S60" value="4.119613921022105" />
+      <entry key="M2" value="4.5050239303503075" />
+      <entry key="M5" value="4.786930379830193" />
+      <entry key="M10" value="4.89077112521112" />
+      <entry key="M15" value="4.926567888480198" />
+      <entry key="M30" value="4.962973889167832" />
+      <entry key="H1" value="4.98140874371045" />
+      <entry key="H2" value="4.990684735080706" />
+      <entry key="H4" value="4.995337447485177" />
+      <entry key="D1" value="4.999222223649349" />
+      <entry key="W1" value="4.999888872323197" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2i1nsk7YVEI5TnGK4GAkoQigDae" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -71,22 +172,29 @@
   "keyToString": {
     "Application.CalcApplication.executor": "Debug",
     "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "teste__senac",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/Alysson/GitHub/SenacDEMO/src/main/java/com/senac/senacdemo",
+    "last_opened_file_path": "/Users/alysson_borges/GitHub/SenacDEMO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.43448275",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -124,7 +232,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-18.0.2-azul-18.0.2.1-4caba194b151-86c6c00a" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -139,6 +248,7 @@
       <workItem from="1718667170983" duration="1614000" />
       <workItem from="1718839148783" duration="3676000" />
       <workItem from="1719264326895" duration="5059000" />
+      <workItem from="1779754471079" duration="1107000" />
     </task>
     <task id="LOCAL-00001" summary="teste de commit">
       <option name="closed" value="true" />
@@ -172,7 +282,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/senac/senacdemo/CalcController.java</url>
-          <line>16</line>
+          <line>17</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -181,5 +291,13 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
